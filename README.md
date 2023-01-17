@@ -1,6 +1,5 @@
 # :wave: The Basics of GitHub 
 
-## Name: Nikolas Dimitrovski
 
 ## 🤓 Course overview and learning outcomes 
 
